@@ -1,4 +1,4 @@
-'[
+[
     {
         "target": "sumSeries(staging-.requests.imp,staging-.requests.imp_bsw.imp,staging-.requests.imp_bsw.ibvnimp,staging-.requests.imp_bsw.nimp)",
         "datapoints": [
@@ -444,4 +444,4 @@
             ]
         ]
     }
-]'
+]
